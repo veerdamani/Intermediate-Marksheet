@@ -1,0 +1,97 @@
+.table{
+    margin: auto;
+    width: 60%;
+    padding: 20px 30px 20px 30px;
+}
+
+
+.border_none{
+    border: none;
+    outline: none;
+}
+
+#board_heading{
+    border: none;
+    font-size: 20px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    letter-spacing: 2px;
+    word-spacing: 10px;
+}
+
+
+ 
+
+#board_logo{
+    height: 50px;
+    width: 50px;
+    align-items: center;
+}
+
+#span1{
+    text-decoration: underline;
+    font-weight: 600;
+    
+}
+
+#span2{
+    text-decoration: underline ;
+
+}
+
+#group{
+    border: none;
+    font-size: 10px;
+    text-align: right;
+}
+
+#logo_tr{
+    text-align: center;
+    border: none;
+    padding-bottom: 20px;
+}
+
+#tr_name{
+    text-align: left;
+}
+
+#sub_ject{
+    text-align: left;
+}
+
+#empty{
+    height: 20px;
+}
+
+#obtained-inword-input{
+    
+}
+
+#exam_controller{
+    border-top: 2px solid;
+    font-size: 14px;
+    height: 40px;
+    padding-top: 20px;
+    border: none;
+}
+
+#grade_td{
+    border: none;
+    height: 60px;
+    text-align: right;
+    padding-right: 40px;
+}
+
+#grade_input{
+    outline: none;
+    width: 50px;
+    height: 20px;
+}
+
+.last_data{
+    border: none;
+}
+
+#cr_number{
+    height: 40px;
+    border: none;
+}
